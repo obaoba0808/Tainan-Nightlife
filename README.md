@@ -1,4 +1,4 @@
-﻿# 🌙 台南夜生活資訊 Tainan Nightlife
+# 🌙 台南夜生活資訊 Tainan Nightlife
 
 > 台南夜生活完整指南 — PUB、酒吧、KTV、美食推薦
 
@@ -31,3 +31,12 @@
 ---
 
 *本頁面由 [歐巴傳播](https://obaoba0808.github.io/FH/) 維護*
+
+---
+
+## 🔗 官方網站
+
+[歐巴傳播 OBAOBA](https://obaoba.online/) — 台北專業傳播公司，24 小時服務，透明計費、50+ 合作據點。
+
+- 預約／客服：**LINE @938nzmjr**｜**電話 0926-656666**
+- 收費行情：https://obaoba.online/how_much.html
