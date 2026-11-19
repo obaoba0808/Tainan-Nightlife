@@ -19,7 +19,7 @@
 - 各式獨立 KTV 包廂
 
 ## 📞 推薦服務
-- [歐巴傳播](https://obaoba0808.github.io/FH/) — 台南/高雄專業傳播、飯局、KTV陪伴服務
+- [歐巴傳播](https://obaoba.online/) — 台南/高雄專業傳播、飯局、KTV 陪伴服務
 - [第一次叫傳播教學](https://obaoba0808.github.io/FH/first_time_called.html)
 - [KTV歡唱全攻略](https://obaoba0808.github.io/FH/KTV_party.html)
 - [汽旅安全指南](https://obaoba0808.github.io/FH/motel_safe.html)
@@ -30,13 +30,13 @@
 
 ---
 
-*本頁面由 [歐巴傳播](https://obaoba0808.github.io/FH/) 維護*
+*台南夜生活資訊*
 
 ---
 
 ## 🔗 官方網站
 
-[歐巴傳播 OBAOBA](https://obaoba.online/) — 台北專業傳播公司，24 小時服務，透明計費、50+ 合作據點。
+台北與台南的聚會場所資訊，详见合作店家。
 
 - 預約／客服：**LINE @938nzmjr**｜**電話 0926-656666**
 - 收費行情：https://obaoba.online/how_much.html
